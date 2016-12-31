@@ -12,4 +12,5 @@
 **Things to figure out:**
 - How to get location of user
 - Learn how to get information returned by the methods in XML format
+- Should we try to make a mobile app version?
 - basically how to do anything. halp. 
