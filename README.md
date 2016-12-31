@@ -9,7 +9,7 @@
   - GetGroceries returns the initial 10 items for autocomplete
 - use the SearchForItem method to find out which stores carry the item we're looking for. and then pick the closest store that has our item
 
-** Things to figure out: **
+**Things to figure out:**
 - How to get location of user
 - Learn how to get information returned by the methods in XML format
 - basically how to do anything. halp. 
