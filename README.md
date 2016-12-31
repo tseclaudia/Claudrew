@@ -14,3 +14,16 @@
 - Learn how to get information returned by the methods in XML format
 - Should we try to make a mobile app version?
 - basically how to do anything. halp. 
+
+**Helpful links:**
+- Calculate distance between latitude longitude pairs with Python: https://gist.github.com/rochacbruno/2883505
+  - maybe we can use the Python Geocoding Toolbox to do that ^ instead
+- Python Geocoding Toolbox: https://geopy.readthedocs.io/en/1.10.0/
+  - get latitude and longitude of supermarket based on its address: https://geopy.readthedocs.io/en/1.10.0/#module-geopy.geocoders
+  - calculate distance between two points: https://geopy.readthedocs.io/en/1.10.0/#module-geopy.distance
+ - An Introduction to using APIs: https://www.dataquest.io/blog/python-api-tutorial/
+  - the tutorial uses the HTTP Python library called 'Requests': http://www.python-requests.org/en/latest/
+ - Another tutorial on 'How to use APIs with Python': https://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1
+ - [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+ 
+  
