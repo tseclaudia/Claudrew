@@ -3,7 +3,7 @@
 **Purpose:** To allow users to search for the nearest grocery store that contains a specific product in their inventory.
 
 **Game Plan:**
-- use the StoresByCityState or StoresByZip methods to get a list of stores within a certain distance. 
+- use the StoresByCityState method to get a list of stores within a certain distance. 
   - StoresByCityState and StoresByZip output the name of the store, the address, and store id
 - use the GetGroceries method to find the exact name of the item the user is looking for. the user can choose their item from the list of item names returned by GetGroceries. this will narrorw down the search results hopefully.
   - GetGroceries returns the initial 10 items for autocomplete
