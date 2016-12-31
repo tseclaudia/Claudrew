@@ -16,7 +16,7 @@
 - basically how to do anything. halp. 
 
 **Helpful links:**
-- Calculate distance between latitude longitude pairs with Python: https://gist.github.com/rochacbruno/2883505
+- [Calculate distance between latitude longitude pairs with Python:] (https://gist.github.com/rochacbruno/2883505)
   - maybe we can use the Python Geocoding Toolbox to do that ^ instead
 - Python Geocoding Toolbox: https://geopy.readthedocs.io/en/1.10.0/
   - get latitude and longitude of supermarket based on its address: https://geopy.readthedocs.io/en/1.10.0/#module-geopy.geocoders
